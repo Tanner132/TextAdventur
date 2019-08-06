@@ -9,3 +9,14 @@
 /Users/sabrinawhite/Projects/TextAdventure/TextAdventure/bin/Debug/netcoreapp2.2/TextAdventure.pdb
 /Users/sabrinawhite/Projects/TextAdventure/TextAdventure/obj/Debug/netcoreapp2.2/TextAdventure.dll
 /Users/sabrinawhite/Projects/TextAdventure/TextAdventure/obj/Debug/netcoreapp2.2/TextAdventure.pdb
+/Users/student/TextAdventer/TextAdventure/bin/Debug/netcoreapp2.2/TextAdventure.deps.json
+/Users/student/TextAdventer/TextAdventure/bin/Debug/netcoreapp2.2/TextAdventure.runtimeconfig.json
+/Users/student/TextAdventer/TextAdventure/bin/Debug/netcoreapp2.2/TextAdventure.runtimeconfig.dev.json
+/Users/student/TextAdventer/TextAdventure/bin/Debug/netcoreapp2.2/TextAdventure.dll
+/Users/student/TextAdventer/TextAdventure/bin/Debug/netcoreapp2.2/TextAdventure.pdb
+/Users/student/TextAdventer/TextAdventure/obj/Debug/netcoreapp2.2/TextAdventure.csprojAssemblyReference.cache
+/Users/student/TextAdventer/TextAdventure/obj/Debug/netcoreapp2.2/TextAdventure.csproj.CoreCompileInputs.cache
+/Users/student/TextAdventer/TextAdventure/obj/Debug/netcoreapp2.2/TextAdventure.AssemblyInfoInputs.cache
+/Users/student/TextAdventer/TextAdventure/obj/Debug/netcoreapp2.2/TextAdventure.AssemblyInfo.cs
+/Users/student/TextAdventer/TextAdventure/obj/Debug/netcoreapp2.2/TextAdventure.dll
+/Users/student/TextAdventer/TextAdventure/obj/Debug/netcoreapp2.2/TextAdventure.pdb
